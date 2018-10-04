@@ -3,7 +3,8 @@
     width: 90%;
   }
   #social {
-  padding: 82px 4px;
+  margin-top: 82px;
+  margin-right: 4px;
 }
 }
 
@@ -19,7 +20,7 @@
     font: 2.2em;
   }
   #social {
-      padding-top: 72px;
+      margin-top: 72px;
   }
   col-3 p {
     count: 2
