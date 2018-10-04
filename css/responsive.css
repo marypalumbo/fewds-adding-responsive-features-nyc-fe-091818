@@ -3,8 +3,9 @@
     width: 90%;
   }
   #social {
-  margin-top: 82px;
-  margin-right: 4px;
+  position: absolute;
+  top: 82px;
+  right: 4px;
 }
 }
 
@@ -20,7 +21,7 @@
     font: 2.2em;
   }
   #social {
-      margin-top: 72px;
+      top: 72px;
   }
   col-3 p {
     column-count: 2
