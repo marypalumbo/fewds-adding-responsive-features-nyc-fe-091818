@@ -1,0 +1,32 @@
+@media (min-width: 1108px) {
+  .wrapper {
+    width: 90%;
+  }
+  #social {
+  padding: 82px 4px;
+}
+}
+
+@media (min-width: 900px) {
+  body {
+    font: 85%;
+  }
+  #logo h1 {
+    height: 35px
+    width: 35px;
+  }
+  #logo h2 {
+    font: 2.2em;
+  }
+  #social {
+      padding-top: 72px;
+  }
+  col-3 p {
+    count: 2
+  }
+  
+  }
+      
+      
+    }
+  }
